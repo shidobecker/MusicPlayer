@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="capa_album">60dp</dimen>
+    <dimen name="media_controls">30dp</dimen>
+    <dimen name="musica_name">30dp</dimen>
+    <dimen name="musica_artista">20dp</dimen>
+
+
+</resources>
